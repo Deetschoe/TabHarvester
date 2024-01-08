@@ -3,4 +3,4 @@ with a tap of a button copy all the links to the tabs you have open which will n
 
 ![gif](https://cloud-hm4m6ab0l-hack-club-bot.vercel.app/0tab.gif)
 
-[YouTube Video](https://www.youtube.com/watch?v=cAn-WqplXh8)
+[Showcase Video](https://www.youtube.com/watch?v=cAn-WqplXh8)
