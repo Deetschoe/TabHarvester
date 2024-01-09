@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Copy Tab URLs",
+    "name": "Tab Harvestor",
     "description": "Copy all open tab URLs into a single list",
     "version": "1.0",
     "permissions": ["tabs", "clipboardWrite"],
